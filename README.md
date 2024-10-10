@@ -5,8 +5,8 @@ Features
 - Dropdown list for selecting students.
 - Alerts the parent via email notification when a student is marked absent.
 
- Live Demo
-Check out the live version of this project here: [Live Demo](https://hareni31.github.io/absentee-notification-system/)
+Live Demo
+Check out the live version of this project here: [Live Demo](https://hareni31.github.io/absent-notification-fd/)
 
 How to Use
 1. Select a student from the dropdown list.
